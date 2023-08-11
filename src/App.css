@@ -1,0 +1,256 @@
+body {
+  overflow: scroll;
+  font-family: 'Open Sans',sans-serif !important;
+  margin: 0;
+  background: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: 'Open Sans',sans-serif !important;
+  color: #444;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  
+ 
+}
+.header-container {
+  background-color: #f3f3f3;
+  width: 100%;
+  height: 80px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.labelStyle {
+  
+  padding-left: 770px;
+  width: 50%;
+  
+  
+}
+.backgroundcontainer{
+  background-image:url("https://pixfort.website/themeforest/landing/flatpack/24_travel/images/main/bg-hl-new.jpg");
+  padding: 60px;
+  width: 50%;
+  background-repeat: no-repeat;
+  
+  
+}
+
+
+@media (min-height: 60vw) {
+  .backgroundcontainer {
+    background-image: none;
+  } 
+}
+
+.worldStyle {
+  height: 80px;
+  width: 80px;
+}
+
+
+
+
+
+.textandimput {
+
+  display: flex;
+  flex-direction: column;
+}
+
+.imputslabel {
+  display: flex;
+  flex-direction: column;
+}
+
+
+
+.textandimput strong {
+  margin-top: 0;
+  padding: 0;
+  border: 0;
+  font-size: 48px;
+  line-height: 52px;
+  vertical-align: baseline;
+  color: #181818;
+
+}
+
+.textandimput input {
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  margin: 10px;
+  padding: 15px 10px;
+  font-weight: bold;
+  
+
+}
+
+.textandimput button {
+
+  border-radius: 3px;
+  border: solid 1px ;
+  cursor: pointer;
+  width: 105%;
+  margin: 9px;
+  padding: 15px;
+  background-color: #82b541;
+  color: #fff;
+  font-size: 16px;
+  box-shadow: 0 -3px rgba(0,0,0,0.2) inset;
+}
+
+.textandimput span {
+
+  font-size: 16px;
+  color: #444;
+  font-family: 'Open Sans',sans-serif !important;
+  line-height: 24px;
+  background: #fff;
+  opacity: 40%;
+}
+
+.divlogos {
+  background-color: #f3f3f3;
+  display: flex;
+  justify-content: space-between;
+  justify-content: center;
+  height: 380px;
+  text-align: center;
+
+  
+  
+}
+
+.divlogos div img {
+  margin-top: 3vw;
+  padding-left: 100px;
+  padding-bottom: 30px;
+
+}
+
+.globelogo {
+  padding-top: 8px;
+
+}
+ 
+.titlelogo {
+  margin-top: 15px;
+  margin-left: 70px;
+  font-size: 28px;
+  font-weight: bold;
+  
+
+}
+
+
+.secondlabel {
+  
+  background-color: #f3f3f3;
+  padding: 60px, 0;
+ 
+  
+
+
+}
+
+.chatlogo {
+  padding-top: 8px;
+  
+}
+
+.label-text-desing {
+  color: #999;
+  font-size: 15px;
+  line-height: 1;
+  
+  
+  
+}
+
+.label-telescope {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  
+  
+}
+
+.telescope-header-desing {
+  
+  display: flex;
+  justify-content: center;
+  font-size: 48px;
+  line-height: 52px;
+  color: #222;
+  background-color: white;
+  padding-top: 10px;
+}
+
+.telescope-text-desing {
+  color: #999;
+  font-size: 16px;
+  background-color: white;
+  padding-left: 600px;
+  padding-right: 600px;
+  font: inherit;
+  line-height: 30px;
+  text-align: center;
+}
+
+.destinations-labels {
+  
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.container {
+  width: 960px;
+  display: flex;
+  margin-left: 400px;
+}
+
+.destinations-labels img {
+  border-radius: 3px;
+  max-width: 100%;
+  height: auto;
+}
+
+.span-laben-container {
+  display: flex;
+  margin-left: 460px;
+  
+
+}
+
+.titleSpan {
+
+  max-width: 100%;
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 12px;
+}
+
+.textspan {
+
+  color: #999;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: justify;  
+ 
+}
+
+.f1box {
+  padding: 10px;
+  
+}
+
+.f2box {
+  padding-top: 10px;
+  
+
+}
